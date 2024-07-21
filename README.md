@@ -20,6 +20,9 @@ _3.- Se hizo evidente que las compras las hicieron personas con un gran rango de
 
 ![gráfico ventas totales por género](https://github.com/user-attachments/assets/7013e24c-3eda-4984-a8a0-c2ae2ed55501)
 
+### Código utilizado en el análisis
+
+
 ## CONCLUSIONES 
 
 *** *** Es interesante observar que tanto hombres como mujeres actualmente existe un equilibrio de compras en categorías como electrónica y ropa. Sin embargo, en la categoría electrónica abarca una variedad de productos como electrodomésticos, dispositivos electrónicos personales, audio y video , accesorios para los dispositivos antes mencionados, videojuegos, etc. Y con la bases de datos actual se generaliza en una sola categoría límitando un poco el análisis que podría funcionar para determinar las necesidades específicas.  En la categoría de belleza, saber que las mujerse siguen comprando mas. Es una gran area de oportunidad, para crear la necesidad en los varones para cuidar su aspecto *** ***
