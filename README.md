@@ -15,12 +15,18 @@ _3.- Se hizo evidente que las compras las hicieron personas con un gran rango de
     - En la categoría de Belleza; mujeres de 34 años, hombres de 46
     - En la categoría de electrónica; mujeres 34 años, hombres 63
     - En la categoríaa de ropa; mujeres 26 años, hombres 59
+    
+![gráfico transacciones por categoría y género](https://github.com/user-attachments/assets/63756c4d-2079-4df1-8f9a-fe1a188b7302)
+
+![gráfico ventas totales por género](https://github.com/user-attachments/assets/7013e24c-3eda-4984-a8a0-c2ae2ed55501)
 
 ## CONCLUSIONES 
 
 *** *** Es interesante observar que tanto hombres como mujeres actualmente existe un equilibrio de compras en categorías como electrónica y ropa. Sin embargo, en la categoría electrónica abarca una variedad de productos como electrodomésticos, dispositivos electrónicos personales, audio y video , accesorios para los dispositivos antes mencionados, videojuegos, etc. Y con la bases de datos actual se generaliza en una sola categoría límitando un poco el análisis que podría funcionar para determinar las necesidades específicas.  En la categoría de belleza, saber que las mujerse siguen comprando mas. Es una gran area de oportunidad, para crear la necesidad en los varones para cuidar su aspecto *** ***
 
 *** *** Conocer la edad de las mejores ventas en cada rubro ayudará a encontrar los grupos etáreos a los que la publicidad deberá encaminarse. *** ***
+
+
 
 
 
